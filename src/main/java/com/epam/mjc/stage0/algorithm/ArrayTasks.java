@@ -1,4 +1,4 @@
-package com.epam.mjc.stage0;
+package com.epam.mjc.stage0.algorithm;
 
 /**
  * Here are the tasks for working with the arrays.
